@@ -1,9 +1,0 @@
-/* ここにカスタムCSSを追加 */
-body {
-    font-family: 'Helvetica', sans-serif;
-}
-
-.profile-header {
-    background-color: #dbeafe; /* カスタム背景色 */
-}
-
